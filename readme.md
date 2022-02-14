@@ -19,6 +19,15 @@ The project is linked with a data base on WAMPSERVER, so the querys used the ORM
 And I used the storage of laravel to save the photos and I save their names on DB.
 
 
+![img](https://i.imgur.com/izQnex7.png)
+
+![img](https://i.imgur.com/NpRUWJi.png)
+
+![img](https://i.imgur.com/tby2zza.png)
+
+![img](https://i.imgur.com/OKrYpPB.png)
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
