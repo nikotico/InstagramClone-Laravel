@@ -12,17 +12,15 @@
 This is my first project in Lavarvel and it's a mini clone of instagram.
 The project is fully scalable is only my first step.
 
-![img](https://imgur.com/izQnex7.png)
-
 The users can register, login, search other users, post photos, give their like and comment all photos.
 They can delete, or update their own post or comments.
 
-![img](https://imgur.com/NpRUWJi.png)
-
-![img](https://imgur.com/tby2zza.png)
-
 The project is linked with a data base on WAMPSERVER, so the querys used the ORM of Laravel.
 And I used the storage of laravel to save the photos and I save their names on DB.
+
+![img](https://imgur.com/izQnex7.png)
+
+![img](https://imgur.com/tby2zza.png)
 
 ![img](https://imgur.com/OKrYpPB.png)
 
