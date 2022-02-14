@@ -18,11 +18,6 @@ They can delete, or update their own post or comments.
 The project is linked with a data base on WAMPSERVER, so the querys used the ORM of Laravel.
 And I used the storage of laravel to save the photos and I save their names on DB.
 
-![img](https://imgur.com/izQnex7.png)
-
-![img](https://imgur.com/tby2zza.png)
-
-![img](https://imgur.com/OKrYpPB.png)
 
 ## License
 
